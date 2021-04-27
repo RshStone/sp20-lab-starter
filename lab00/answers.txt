@@ -1,5 +1,6 @@
-1.first_set_command_1 find
-2.first_set_command_2 ps
-3.first_set_command_3 kill
-4.first_set_command_4 diff
+1.third_set_command_1	ls -la
+2.first_set_command_1 	find
+3.first_set_command_2 	ps
+4.first_set_command_3 	kill
+5.first_set_command_4 	diff
 
